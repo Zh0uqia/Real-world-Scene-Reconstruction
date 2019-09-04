@@ -1,4 +1,6 @@
 # Real-world-Scene-Reconstruction
+This is an implementation of an augmented reality viewer that displays artificial objects overlaid on images of a real 3D scene. 
+
 Step 1:
 - Collections of real-world images. Choose a scene with many features which can be found by the COLMAP application.
 
@@ -31,3 +33,7 @@ Step 10:
 
 Step 11:
 - Project the 3D box into the images.
+
+Test:
+- ``` main.m ```
+- The output images are saved in ```img_output```.
